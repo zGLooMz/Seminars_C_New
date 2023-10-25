@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _OOP_Lesson1
+namespace Seminar1
 {
     public enum Gender
     {
@@ -27,7 +27,6 @@ namespace _OOP_Lesson1
         {
             Info(indent);
         }
-
 
     }
 
