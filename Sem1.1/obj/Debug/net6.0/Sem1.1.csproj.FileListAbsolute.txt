@@ -1,0 +1,15 @@
+H:\New_C\Seminars_C_New\Sem1.1\bin\Debug\net6.0\Sem1.1.exe
+H:\New_C\Seminars_C_New\Sem1.1\bin\Debug\net6.0\Sem1.1.deps.json
+H:\New_C\Seminars_C_New\Sem1.1\bin\Debug\net6.0\Sem1.1.runtimeconfig.json
+H:\New_C\Seminars_C_New\Sem1.1\bin\Debug\net6.0\Sem1.1.dll
+H:\New_C\Seminars_C_New\Sem1.1\bin\Debug\net6.0\Sem1.1.pdb
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.csproj.AssemblyReference.cache
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.GeneratedMSBuildEditorConfig.editorconfig
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.AssemblyInfoInputs.cache
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.AssemblyInfo.cs
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.csproj.CoreCompileInputs.cache
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.dll
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\refint\Sem1.1.dll
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.pdb
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\Sem1.1.genruntimeconfig.cache
+H:\New_C\Seminars_C_New\Sem1.1\obj\Debug\net6.0\ref\Sem1.1.dll
